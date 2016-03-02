@@ -1,0 +1,11 @@
+{
+  "name": "angular-templatecache",
+  "version": "0.0.1",
+  "description": "Concatenates and registers AngularJS templates in the $templateCache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JP Wesselink <jpwesselink@gmail.com>",
+  "license": "MIT"
+}
